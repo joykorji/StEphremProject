@@ -1,0 +1,28 @@
+.dateDropdown, display-4 {
+    margin-top: 25px;
+}
+
+.welcomeMsg {
+    margin-top: 25px;
+}
+
+.first {
+    max-width: 100%;
+    float: left;
+    height: auto;
+    margin-left: 10%;
+        background-color: blue;
+}
+.second {
+    max-width: 100%;
+    float: left;
+    height: auto;
+    margin-left: 3%;
+    background-color: green;
+}
+
+.BigContainer {
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
