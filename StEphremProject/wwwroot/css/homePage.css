@@ -10,14 +10,16 @@
     max-width: 100%;
     float: left;
     height: auto;
-    margin-left: 10%;
-        background-color: blue;
+    margin-left: 35%;
+    margin-right: 3%;
+    background-color: blue;
 }
 .second {
     max-width: 100%;
     float: left;
     height: auto;
     margin-left: 3%;
+    margin-right: 35%;
     background-color: green;
 }
 
